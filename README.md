@@ -1,1 +1,1 @@
-## Pharmacy Inventory Management
+# Pharmacy Inventory Management
